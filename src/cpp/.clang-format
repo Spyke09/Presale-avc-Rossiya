@@ -1,0 +1,14 @@
+BasedOnStyle: Google
+IndentWidth: 4
+ColumnLimit: 120
+AllowShortIfStatementsOnASingleLine: false
+BreakBeforeBraces: Allman
+DerivePointerAlignment: false
+PointerAlignment: Left
+BreakConstructorInitializers: AfterColon
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+BinPackParameters: false
+BinPackArguments: false
+AllowAllConstructorInitializersOnNextLine: false
+ConstructorInitializerIndentWidth: 8
+IndentWrappedFunctionNames: false
